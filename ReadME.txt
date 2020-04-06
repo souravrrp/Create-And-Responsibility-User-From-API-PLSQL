@@ -2,6 +2,7 @@ Execute the following steps to complete set up of update responsibility from bac
 
 1. Create the Database table
 2. Uplaod the Data for username, Responsibility name and ADD/END for start or end a responsibility where flag is null.
+   Or for User Update change User_Name and use ADD/END for start and end an user.
 3. Execute the Package Body
 4. Execute the Package Procedure.
 4. Execute the Package.Procedure combindly.

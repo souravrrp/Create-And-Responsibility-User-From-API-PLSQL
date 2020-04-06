@@ -1,1 +1,3 @@
 EXECUTE USER_UPDATE.update_responsibility;
+
+EXECUTE USER_UPDATE.CREATE_USER;
