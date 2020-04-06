@@ -1,0 +1,1 @@
+EXECUTE USER_UPDATE.update_responsibility;
