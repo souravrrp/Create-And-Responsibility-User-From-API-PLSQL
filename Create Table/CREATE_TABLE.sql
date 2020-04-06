@@ -13,4 +13,4 @@ CREATE TABLE XXDBL.XXDBL_CREATE_USER
    USER_NAME             VARCHAR2 (20 BYTE),
    PURPOSE               VARCHAR2 (10 BYTE),
    FLAG                  VARCHAR2 (5 BYTE)
-)
+);
